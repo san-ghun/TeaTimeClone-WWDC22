@@ -11,6 +11,12 @@
 		BD25A842285CBAE2007C2BA7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A841285CBAE2007C2BA7 /* ContentView.swift */; };
 		BD25A844285CBAE4007C2BA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD25A843285CBAE4007C2BA7 /* Assets.xcassets */; };
 		BD25A847285CBAE4007C2BA7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD25A846285CBAE4007C2BA7 /* Preview Assets.xcassets */; };
+		BD25A84E285CBB29007C2BA7 /* AssistantTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A84D285CBB29007C2BA7 /* AssistantTab.swift */; };
+		BD25A850285CBB66007C2BA7 /* TeasTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A84F285CBB66007C2BA7 /* TeasTab.swift */; };
+		BD25A852285CBB71007C2BA7 /* TeaWheelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A851285CBB71007C2BA7 /* TeaWheelView.swift */; };
+		BD25A855285CBB80007C2BA7 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A854285CBB80007C2BA7 /* DataSource.swift */; };
+		BD25A857285CBB8D007C2BA7 /* ModelHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A856285CBB8D007C2BA7 /* ModelHelpers.swift */; };
+		BD25A859285CBB94007C2BA7 /* Tea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD25A858285CBB94007C2BA7 /* Tea.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		BD25A841285CBAE2007C2BA7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD25A843285CBAE4007C2BA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD25A846285CBAE4007C2BA7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD25A84D285CBB29007C2BA7 /* AssistantTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssistantTab.swift; sourceTree = "<group>"; };
+		BD25A84F285CBB66007C2BA7 /* TeasTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeasTab.swift; sourceTree = "<group>"; };
+		BD25A851285CBB71007C2BA7 /* TeaWheelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeaWheelView.swift; sourceTree = "<group>"; };
+		BD25A854285CBB80007C2BA7 /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
+		BD25A856285CBB8D007C2BA7 /* ModelHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelHelpers.swift; sourceTree = "<group>"; };
+		BD25A858285CBB94007C2BA7 /* Tea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tea.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +63,12 @@
 		BD25A83E285CBAE2007C2BA7 /* TeaPlz */ = {
 			isa = PBXGroup;
 			children = (
+				BD25A853285CBB75007C2BA7 /* Model */,
 				BD25A83F285CBAE2007C2BA7 /* TeaPlzApp.swift */,
 				BD25A841285CBAE2007C2BA7 /* ContentView.swift */,
+				BD25A84D285CBB29007C2BA7 /* AssistantTab.swift */,
+				BD25A84F285CBB66007C2BA7 /* TeasTab.swift */,
+				BD25A851285CBB71007C2BA7 /* TeaWheelView.swift */,
 				BD25A843285CBAE4007C2BA7 /* Assets.xcassets */,
 				BD25A845285CBAE4007C2BA7 /* Preview Content */,
 			);
@@ -65,6 +81,16 @@
 				BD25A846285CBAE4007C2BA7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BD25A853285CBB75007C2BA7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BD25A854285CBB80007C2BA7 /* DataSource.swift */,
+				BD25A856285CBB8D007C2BA7 /* ModelHelpers.swift */,
+				BD25A858285CBB94007C2BA7 /* Tea.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +163,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD25A855285CBB80007C2BA7 /* DataSource.swift in Sources */,
+				BD25A850285CBB66007C2BA7 /* TeasTab.swift in Sources */,
 				BD25A842285CBAE2007C2BA7 /* ContentView.swift in Sources */,
+				BD25A857285CBB8D007C2BA7 /* ModelHelpers.swift in Sources */,
+				BD25A84E285CBB29007C2BA7 /* AssistantTab.swift in Sources */,
+				BD25A852285CBB71007C2BA7 /* TeaWheelView.swift in Sources */,
+				BD25A859285CBB94007C2BA7 /* Tea.swift in Sources */,
 				BD25A840285CBAE2007C2BA7 /* TeaPlzApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
