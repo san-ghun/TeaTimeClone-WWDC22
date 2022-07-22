@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOlt7InNvdXJjZUNvbnRyb2wiOlt7ImlkZW50aXR5
+		Ijoic3dpZnQtY29sbGVjdGlvbnMiLCJsb2NhdGlvbiI6eyJyZW1vdGUiOlsi
+		aHR0cHM6XC9cL2dpdGh1Yi5jb21cL2FwcGxlXC9zd2lmdC1jb2xsZWN0aW9u
+		cyJdfSwicHJvZHVjdEZpbHRlciI6bnVsbCwicmVxdWlyZW1lbnQiOnsicmFu
+		Z2UiOlt7Imxvd2VyQm91bmQiOiIxLjAuMiIsInVwcGVyQm91bmQiOiIyLjAu
+		MCJ9XX19XX1dLCJkaXNwbGF5TmFtZSI6IlRlYSBQbHoiLCJwYWNrYWdlS2lu
+		ZCI6eyJyb290Ijp7fX0sInBsYXRmb3JtcyI6W3sib3B0aW9ucyI6W10sInBs
+		YXRmb3JtTmFtZSI6ImlvcyIsInZlcnNpb24iOiIxNS4yIn1dLCJwcm9kdWN0
+		cyI6W3sibmFtZSI6IlRlYSBQbHoiLCJzZXR0aW5ncyI6W3siZGlzcGxheVZl
+		cnNpb24iOlsiMS4wIl19LHsiYnVuZGxlVmVyc2lvbiI6WyIxIl19LHsiaU9T
+		QXBwSW5mbyI6W3siYWNjZW50Q29sb3IiOnsicHJlc2V0Q29sb3IiOnsicHJl
+		c2V0Q29sb3IiOnsicmF3VmFsdWUiOiJtaW50In19fSwiYXBwSWNvbiI6eyJw
+		bGFjZWhvbGRlciI6eyJpY29uIjp7InJhd1ZhbHVlIjoiY29mZmVlIn19fSwi
+		Y2FwYWJpbGl0aWVzIjpbeyJwdXJwb3NlIjoibWljcm9waG9uZSIsInB1cnBv
+		c2VTdHJpbmciOiJUZWEgUGx6IHVzZXMgdGhlIG1pY3JvcGhvbmUgdG8gbGlz
+		dGVuIGZvciB3aGlzdGxpbmcgdGVhIGtldHRsZXMuIn1dLCJzdXBwb3J0ZWRE
+		ZXZpY2VGYW1pbGllcyI6WyJwYWQiLCJwaG9uZSJdLCJzdXBwb3J0ZWRJbnRl
+		cmZhY2VPcmllbnRhdGlvbnMiOlt7InBvcnRyYWl0Ijp7fX0seyJsYW5kc2Nh
+		cGVSaWdodCI6e319LHsibGFuZHNjYXBlTGVmdCI6e319LHsicG9ydHJhaXRV
+		cHNpZGVEb3duIjp7ImNvbmRpdGlvbiI6eyJkZXZpY2VGYW1pbGllcyI6WyJw
+		YWQiXX19fV19XX1dLCJ0YXJnZXRzIjpbIkFwcE1vZHVsZSJdLCJ0eXBlIjp7
+		ImV4ZWN1dGFibGUiOm51bGx9fV0sInRhcmdldE1hcCI6eyJBcHBNb2R1bGUi
+		OnsiZGVwZW5kZW5jaWVzIjpbeyJwcm9kdWN0IjpbIkNvbGxlY3Rpb25zIiwi
+		c3dpZnQtY29sbGVjdGlvbnMiLG51bGxdfV0sImV4Y2x1ZGUiOltdLCJuYW1l
+		IjoiQXBwTW9kdWxlIiwicGF0aCI6Ii4iLCJyZXNvdXJjZXMiOltdLCJzZXR0
+		aW5ncyI6W10sInR5cGUiOiJleGVjdXRhYmxlIn19LCJ0YXJnZXRzIjpbeyJk
+		ZXBlbmRlbmNpZXMiOlt7InByb2R1Y3QiOlsiQ29sbGVjdGlvbnMiLCJzd2lm
+		dC1jb2xsZWN0aW9ucyIsbnVsbF19XSwiZXhjbHVkZSI6W10sIm5hbWUiOiJB
+		cHBNb2R1bGUiLCJwYXRoIjoiLiIsInJlc291cmNlcyI6W10sInNldHRpbmdz
+		IjpbXSwidHlwZSI6ImV4ZWN1dGFibGUifV0sInRvb2xzVmVyc2lvbiI6eyJf
+		dmVyc2lvbiI6IjUuNi4wIn19
+		</data>
+		<key>manifestHash</key>
+		<data>
+		6mxXoEWQb24+tv7v1B0uWYuGGpvNErA2hte6zCCfdQA=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.6.0-dev</string>
+	</dict>
+</dict>
+</plist>
